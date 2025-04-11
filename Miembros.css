@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenedor {
+	width: 1024px;
+	border: solid 7px #BF183D;
+	background: #f0c9c9;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
+#logo {
+	
+	height: 170px;
+	border:solid #f0c9c9;
+}
+
+#logo2{
+	
+	margin-top: 10px;
+}
+
+#botones {
+	height: 40px;
+	border: solid #f0c9c9;
+	background: #f0c9c9;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 14px;
+	text-align: right;
+}
+
+#columna1{
+	width: 1000px;
+	height: 580px;
+	border: dashed #BF183D;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin: 10px;
+
+}
+
+#irenegrande{
+	
+	margin: auto;
+	align-content: center;
+	display: table;
+	
+}
+
+#FotosP{
+	margin: 11px;
+	align-content: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	
+}
+
+#Irenemini{
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+#Seulmini{
+	padding-left: 5px;
+	padding-right: 5px;
+	
+} 
+
+#Wandmini{
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+#Joymini{
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+#Yermiesemini{
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+
+#table{
+	border: solid 2px #BF183D;
+
+	
+}
+
+
+.meter {
+	clear:both;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}

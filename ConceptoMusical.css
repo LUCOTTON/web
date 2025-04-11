@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenedor {
+	width: 1024px;
+	border: solid 7px #BF183D;
+	background: #f0c9c9;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
+#logo {
+	
+	height: 170px;
+	border:solid #f0c9c9;
+}
+
+#logo2{
+	
+	margin-top: 10px;
+}
+
+#botones {
+	height: 40px;
+	border: solid #f0c9c9;
+	background: #f0c9c9;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 14px;
+	text-align: right;
+}
+
+#columna1{
+	width: 290px;
+	height: 580px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin: 10px;
+
+}
+
+#columna2{
+    width: 290px;
+    height: 580px;
+    float: left;
+    margin: 10px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	
+}
+
+#columna3{
+    width: 290px;
+    height: 580px;
+    float: left;
+    margin: 10px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+
+}
+
+.meter {
+	clear:both;
+	display: flex;
+	justify-content: center;
+}
